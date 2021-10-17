@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @OscarLundberg100
+- 👀 I’m interested in data analytics, data science, automation, finance, business modelling, business analytics, ML, webscraping
+- 🌱 I’m currently learning more about python.
+- 💞️ I’m looking to collaborate on projects that could create value in business and also help my personal developement.
+- 📫 How to reach me lundberg.o@gmail.com
